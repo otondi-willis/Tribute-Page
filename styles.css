@@ -4,11 +4,31 @@
         align-items: center;
         flex-direction: column;text-align:center;
   }
+  #main #img-div{
+    background-color: white;
+  }
   #image{
     max-width:100%;
     height:auto;
   }
+  body{
+    background-color: #dbf2dd;
+  }
   img{
    display:block;
   }
-  
+  h1,header,h2{
+    text-align: center;
+  }
+  .timeline{
+    text-align:left;
+  }
+  #main{
+    background-color: lightgrey;
+
+  }
+  #quote,#end{
+    text-align: center;
+    
+
+  }
